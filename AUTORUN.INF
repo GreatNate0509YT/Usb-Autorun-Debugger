@@ -1,0 +1,5 @@
+[autorun]
+open=usb.exe
+icon=icon.ico
+label=usb
+;action=Open Program
